@@ -1,6 +1,7 @@
 name: MyPlugin
 version: 0.1.0
 load: STARTUP
+author: springfoxteam
 authors: [springfoxteam, TheBusyBiscuit]
 main: org.bukkit.plugin.ExoticGardenPlus
 depend: [CSCore-Lib, Slimefun, ExoticGarden]
