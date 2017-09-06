@@ -6,4 +6,4 @@ authors: [springfoxteam, TheBusyBiscuit]
 main: org.bukkit.plugin.ExoticGardenPlus
 depend: [CSCore-Lib, Slimefun, ExoticGarden]
 softdepend: [CSCore-Lib, Slimefun]
-website: https://dev.bukkit.org/projects/exoticgarden-unofficial
+website: https://dev.bukkit.org/projects/exoticgardenplus-sf4
