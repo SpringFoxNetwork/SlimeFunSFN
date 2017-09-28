@@ -3,7 +3,7 @@ version: 0.1.0
 load: STARTUP
 author: springfoxteam
 authors: [springfoxteam, TheBusyBiscuit]
-main: org.bukkit.plugin.ExoticGardenPlus
+main: org.bukkit.plugin.SlimeForest
 depend: [CSCore-Lib, Slimefun, ExoticGarden, ExoticGarden+]
 softdepend: [CSCore-Lib, Slimefun]
-website: https://dev.bukkit.org/projects/exoticgardenplus-sf4
+website: https://dev.bukkit.org/projects/slimeforest-sf4 
